@@ -1,0 +1,9 @@
+c:\users\sandeep reddy tera\documents\visual studio 2015\Projects\SampleCalculator\SampleCalculator\bin\Debug\SampleCalculator.exe.config
+c:\users\sandeep reddy tera\documents\visual studio 2015\Projects\SampleCalculator\SampleCalculator\bin\Debug\SampleCalculator.exe
+c:\users\sandeep reddy tera\documents\visual studio 2015\Projects\SampleCalculator\SampleCalculator\bin\Debug\SampleCalculator.pdb
+c:\users\sandeep reddy tera\documents\visual studio 2015\Projects\SampleCalculator\SampleCalculator\obj\Debug\SampleCalculator.csprojResolveAssemblyReference.cache
+c:\users\sandeep reddy tera\documents\visual studio 2015\Projects\SampleCalculator\SampleCalculator\obj\Debug\SampleCalculator.Form1.resources
+c:\users\sandeep reddy tera\documents\visual studio 2015\Projects\SampleCalculator\SampleCalculator\obj\Debug\SampleCalculator.Properties.Resources.resources
+c:\users\sandeep reddy tera\documents\visual studio 2015\Projects\SampleCalculator\SampleCalculator\obj\Debug\SampleCalculator.csproj.GenerateResource.Cache
+c:\users\sandeep reddy tera\documents\visual studio 2015\Projects\SampleCalculator\SampleCalculator\obj\Debug\SampleCalculator.exe
+c:\users\sandeep reddy tera\documents\visual studio 2015\Projects\SampleCalculator\SampleCalculator\obj\Debug\SampleCalculator.pdb
