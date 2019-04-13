@@ -7,3 +7,6 @@ c:\users\sandeep reddy tera\documents\visual studio 2015\Projects\SampleCalculat
 c:\users\sandeep reddy tera\documents\visual studio 2015\Projects\SampleCalculator\SampleCalculator\obj\Debug\SampleCalculator.csproj.GenerateResource.Cache
 c:\users\sandeep reddy tera\documents\visual studio 2015\Projects\SampleCalculator\SampleCalculator\obj\Debug\SampleCalculator.exe
 c:\users\sandeep reddy tera\documents\visual studio 2015\Projects\SampleCalculator\SampleCalculator\obj\Debug\SampleCalculator.pdb
+C:\Users\teras\OneDrive\Desktop\Test\SampleCalculator\SampleCalculator\bin\Debug\SampleCalculator.exe.config
+C:\Users\teras\OneDrive\Desktop\Test\SampleCalculator\SampleCalculator\obj\Debug\SampleCalculator.exe
+C:\Users\teras\OneDrive\Desktop\Test\SampleCalculator\SampleCalculator\obj\Debug\SampleCalculator.pdb
