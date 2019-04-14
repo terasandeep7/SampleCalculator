@@ -10,3 +10,6 @@ c:\users\sandeep reddy tera\documents\visual studio 2015\Projects\SampleCalculat
 C:\Users\teras\OneDrive\Desktop\Test\SampleCalculator\bin\Debug\SampleCalculator.exe.config
 C:\Users\teras\OneDrive\Desktop\Test\SampleCalculator\obj\Debug\SampleCalculator.exe
 C:\Users\teras\OneDrive\Desktop\Test\SampleCalculator\obj\Debug\SampleCalculator.pdb
+C:\Users\teras\OneDrive\Desktop\New folder\New folder\SampleCalculator\bin\Debug\SampleCalculator.exe.config
+C:\Users\teras\OneDrive\Desktop\New folder\New folder\SampleCalculator\obj\Debug\SampleCalculator.exe
+C:\Users\teras\OneDrive\Desktop\New folder\New folder\SampleCalculator\obj\Debug\SampleCalculator.pdb
