@@ -13,3 +13,6 @@ C:\Users\teras\OneDrive\Desktop\Test\SampleCalculator\obj\Debug\SampleCalculator
 C:\Users\teras\OneDrive\Desktop\New folder\New folder\SampleCalculator\bin\Debug\SampleCalculator.exe.config
 C:\Users\teras\OneDrive\Desktop\New folder\New folder\SampleCalculator\obj\Debug\SampleCalculator.exe
 C:\Users\teras\OneDrive\Desktop\New folder\New folder\SampleCalculator\obj\Debug\SampleCalculator.pdb
+C:\Users\teras\OneDrive\Desktop\sailesh\SampleCalculator\bin\Debug\SampleCalculator.exe.config
+C:\Users\teras\OneDrive\Desktop\sailesh\SampleCalculator\obj\Debug\SampleCalculator.exe
+C:\Users\teras\OneDrive\Desktop\sailesh\SampleCalculator\obj\Debug\SampleCalculator.pdb
