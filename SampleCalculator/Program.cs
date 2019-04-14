@@ -13,6 +13,7 @@ namespace SampleCalculator
         /// </summary>
         [STAThread]
         static void Main()
+            //TEST
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
